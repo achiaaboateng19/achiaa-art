@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to bottom right, lightpink, #f1f197);
+  }
+
+  img {
+    box-shadow: 10px 10px 5px gray;
+  }
